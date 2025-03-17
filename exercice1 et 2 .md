@@ -1,4 +1,4 @@
-**Partie 2 : Configuration de SSH**
+**Partie1**
 
 Q.2.1.1 - Créer un compte personnel
 
@@ -9,6 +9,7 @@ sudo adduser Mariama
 Q.2.1.2 - je  Préconise pour ce compte
 Mot de passe sécurisé : au moins 12 caractères avec majuscules, minuscules, chiffres et caractères spéciaux.
 
+**Partie 2 : Configuration de SSH**
 Q.2.2.1 - Désactiver complètement l'accès à distance de root
 
 
